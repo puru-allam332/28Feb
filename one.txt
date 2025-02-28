@@ -3,3 +3,5 @@ animals
 peoples
 linkone
 linktwo
+mangos
+apple
